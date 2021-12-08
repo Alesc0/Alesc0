@@ -7,7 +7,7 @@
     </a>
 </div>
 <br>
-<div style="display: inline_block;width:fit-content;margin:0 auto;">
+<div align="center">
     <img align="center" alt="Alesc0-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Alesc0-HTML" height="30" width="40"
