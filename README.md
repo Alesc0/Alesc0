@@ -4,9 +4,10 @@
         src="https://github-readme-stats.vercel.app/api?username=Alesc0&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesc0&layout=compact&theme=radical&hide_border=true"/>
+    </a>
 </div>
 <br>
-<div style="display: inline_block;">
+<div style="display: inline_block;margin:0 auto;">
     <img align="center" alt="Alesc0-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Alesc0-HTML" height="30" width="40"
