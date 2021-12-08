@@ -3,7 +3,7 @@
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Alesc0&layout=compact&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
     <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesc0&layout=compact&theme=radical&hide_border=true"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesc0&theme=radical&hide_border=true"/>
 </div>
 <br>
 <div style="display: inline_block;">
@@ -17,6 +17,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Alesc0-Csharp" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Alesc0-Csharp" height="30" width="40"
+    <img align="center" alt="Alesc0-Cpp" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
