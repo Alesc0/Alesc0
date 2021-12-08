@@ -1,9 +1,9 @@
 <div align="center">
     <a href="https://github.com/Alesc0">
     <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Alesc0&layout=compact&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
+        src="https://github-readme-stats.vercel.app/api?username=Alesc0&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
     <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesc0&theme=radical&hide_border=true"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesc0&layout=compact&theme=radical&hide_border=true"/>
 </div>
 <br>
 <div style="display: inline_block;">
