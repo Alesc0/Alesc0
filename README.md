@@ -2,7 +2,7 @@
 
 # About Me
 
-- I'm Alex, currently working as a Software Engineer @ Construo AG
+- I'm Alex, currently working as a Devops Engineer @ Construo AG
 - I love tech in general, with a special interest in Cybersecurity
 - Currently working on Cloud and DevOps processes
 - I'm super curious about how things work, and I love to learn new stuff, even if it's not related to tech
