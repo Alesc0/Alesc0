@@ -20,15 +20,13 @@
 ### GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alesc0&theme=tokyonight" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alesc0&theme=tokyonight" />
-</div>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alesc0&theme=tokyonight" />
-</div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alesc0&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alesc0&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alesc0&theme=github_dark" />
+    <img src="https://streak-stats.demolab.com/?user=alesc0&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=alesc0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://chess.alesc.me/combined/chessdotcom/alesc0?mode=rapid&months=3" alt="Chess Stats" />
 </div>
 
 ---
